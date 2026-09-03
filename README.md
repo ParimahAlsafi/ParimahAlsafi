@@ -5,9 +5,7 @@
 M.Sc. Data Science student with a B.Sc. in Statistics, working at the 
 intersection of **Artificial Intelligence, Machine Learning, Statistics, and Data Science**.
 
-My research focuses on developing data-driven and learning-based methods for 
-**prediction, optimization, representation learning, and sequential decision-making 
-under uncertainty**.
+My research interests lie at the intersection of Artificial Intelligence, Data Science, and Statistics, with a particular focus on reinforcement learning, statistical learning, machine learning, deep learning, and recommender systems.
 
 ---
 

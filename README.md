@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi, I'm Parimah Alsafi 👋
 
-<!--
-**ParimahAlsafi/ParimahAlsafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Scientist | AI & Statistical Learning Researcher
 
-Here are some ideas to get you started:
+M.Sc. Data Science student with a B.Sc. in Statistics, working at the 
+intersection of **Artificial Intelligence, Machine Learning, Statistics, and Data Science**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My research focuses on developing data-driven and learning-based methods for 
+**prediction, optimization, representation learning, and sequential decision-making 
+under uncertainty**.
+
+---
+
+## 🔬 Research Interests
+
+- Reinforcement Learning
+- Statistical Learning
+- Machine Learning
+- Deep Learning
+- Recommender Systems
+- Multi-Agent Learning
+- Time-Series Analysis
+- Anomaly Detection
+- Computer Vision
+- Large Language Models
+
+---
+
+## 🧠 Current Research
+
+My current research focuses on reinforcement learning-based dynamic insurance premium pricing under uncertainty, incorporating claim modeling, reserve dynamics, and investment income into the pricing optimization framework.
+
+My broader research interests lie at the intersection of reinforcement learning, statistical learning, machine learning, deep learning, recommender systems, and statistical modeling.
+
+---
+
+## 📊 Data Science & Statistics
+
+My statistical background provides a strong foundation in:
+
+`Probability` • `Statistical Inference` • `Regression` • `Classification` • 
+`Time Series` • `Experimental Design`  • 
+`Anomaly Detection` • `Dimensionality Reduction` • `Predictive Modeling`
+
+---
+
+## 🤖 AI & Machine Learning
+
+Experience with:
+
+`Reinforcement Learning`  • `Actor-Critic Methods` • `Contextual Bandits` • 
+`Deep Learning` • `Neural Recommender Systems` • `CNNs` • `Vision Transformers` • 
+`YOLO` • `Transformers` 
+
+---
+
+## 💻 Tech Stack
+
+**Languages:** Python, R, SQL, C++, MATLAB
+
+**Libraries & Frameworks:** PyTorch, Scikit-learn, Pandas, NumPy
+
+**Tools:** Git, GitHub, LaTeX, Power BI

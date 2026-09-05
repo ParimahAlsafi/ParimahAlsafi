@@ -52,6 +52,13 @@ Experience with:
 
 ---
 
+## 📂 Project Repositories
+
+- [Reinforcement Learning Projects](https://github.com/ParimahAlsafi/reinforcement-learning-projects)
+- [Deep Learning Projects](https://github.com/ParimahAlsafi/deep-learning-projects)
+- [Statistics Projects](https://github.com/ParimahAlsafi/statistics-projects)
+
+---
 ## 💻 Tech Stack
 
 **Languages:** Python, R, SQL, C++, MATLAB
